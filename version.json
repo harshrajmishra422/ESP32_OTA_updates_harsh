@@ -1,6 +1,5 @@
 {
   "version": "1.0.9",
-  "url": " https://raw.github.io/ESP32_OTA_updates_harsh/Firmware/Version.json/ESP32_IoT_Controller_v1.0.8_2.ino.bin",
+  "url": "https://raw.githubusercontent.com/harshrajmishra422/ESP32_OTA_updates_harsh/refs/heads/main/ESP32_IoT_Controller_18-06.ino.bin",
   "notes": "Added GitHub OTA auto-update support"
 }
-
