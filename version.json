@@ -1,5 +1,5 @@
 {
   "version": "1.0.10",
-  "url": "https://raw.githubusercontent.com/harshrajmishra422/ESP32_OTA_updates_harsh/main/esp32_19_1.ino.bin",
+  "url": "https://raw.githubusercontent.com/harshrajmishra422/ESP32_OTA_updates_harsh/refs/heads/main/esp32_19_1_.ino.bin",
   "notes": "Added command ACK flow, duplicate prevention, and structured error handling"
 }
